@@ -4,13 +4,15 @@
    enable-background="new 0 0 64 64"
    version="1.1"
    id="svg37"
-   sodipodi:docname="or-heart_emojitwo.svg"
+   sodipodi:docname="purpure-heart_emojitwo.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+   <title
+     id="title4515">purple heart</title>
   <sodipodi:namedview
      id="namedview37"
      pagecolor="#ffffff"
@@ -29,21 +31,18 @@
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg37" />
-     <title
-     id="title4515">yellow heart</title>
   <defs
      id="defs37">
     <pattern
        inkscape:collect="always"
-       xlink:href="#Dots"
-       id="pattern50"
+       xlink:href="#ForwardLine"
+       id="pattern40"
        patternTransform="scale(1)" />
     <pattern
        id="Triangle"
        width="10"
        height="10"
-       patternUnits="userSpaceOnUse"
-       inkscape:label="Trójkąt">
+       patternUnits="userSpaceOnUse">
       <polygon
          points="5,0 10,10 0,10"
          fill="black"
@@ -53,8 +52,7 @@
        id="LargeCircle"
        width="10"
        height="10"
-       patternUnits="userSpaceOnUse"
-       inkscape:label="LargeCircle">
+       patternUnits="userSpaceOnUse">
       <circle
          cx="5"
          cy="5"
@@ -90,8 +88,7 @@
        id="TinyCircle"
        width="10"
        height="10"
-       patternUnits="userSpaceOnUse"
-       inkscape:label="TinyCircle">
+       patternUnits="userSpaceOnUse">
       <circle
          cx="5"
          cy="5"
@@ -104,9 +101,7 @@
        width="10"
        height="10"
        patternUnits="userSpaceOnUse"
-       fill="black"
-       style="fill:#000000"
-       inkscape:label="Kropka">
+       fill="black">
       <circle
          cx="5"
          cy="5"
@@ -119,9 +114,7 @@
        width="10"
        height="10"
        patternUnits="userSpaceOnUse"
-       fill="black"
-       style="fill:#000000"
-       inkscape:label="Dots">
+       fill="black">
       <circle
          cx="2.5"
          cy="1.25"
@@ -217,7 +210,8 @@
        id="ForwardLine"
        width="10"
        height="10"
-       patternUnits="userSpaceOnUse">
+       patternUnits="userSpaceOnUse"
+       inkscape:label="ForwardLine">
       <line
          x1="-2.5"
          y1="10"
@@ -239,7 +233,8 @@
        id="BackwardLine"
        width="10"
        height="10"
-       patternUnits="userSpaceOnUse">
+       patternUnits="userSpaceOnUse"
+       inkscape:label="BackwardLine">
       <line
          x1="-2.5"
          y1="0"
@@ -319,8 +314,7 @@
        id="DashDot"
        width="10"
        height="10"
-       patternUnits="userSpaceOnUse"
-       inkscape:label="DashDot">
+       patternUnits="userSpaceOnUse">
       <line
          x1="0"
          y1="2.5"
@@ -354,8 +348,7 @@
        id="AlternateDashes"
        width="10"
        height="10"
-       patternUnits="userSpaceOnUse"
-       inkscape:label="AlternateDashes">
+       patternUnits="userSpaceOnUse">
       <line
          x1="0"
          y1="2.5"
@@ -591,5 +584,5 @@
      fill="url(#VerticalAndForwardLine)"
      d="m61.1 18.2c-6.4-17-27.2-9.4-29.1-.9-2.6-9-22.9-15.7-29.1.9-6.9 18.5 26.7 35.1 29.1 37.8 2.4-2.2 36-19.6 29.1-37.8"
      id="path37"
-     style="fill:url(#pattern50);fill-opacity:1" />
+     style="fill:url(#pattern40);fill-opacity:1" />
 </svg>
