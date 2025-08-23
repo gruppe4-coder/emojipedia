@@ -31,16 +31,7 @@ We need few SVG's per icon.
 The files need to be named with uni code prefix.
 
 ###First Icon :
-- u1F60A-smileeyes.svg (complete glyph)
-- u1F60A.layer1.svg (Layer 1)
-- u1F60A.layer2.svg (Layer 2)
-- etc.
-
-###Second Icon :
-- u1F60B-smiletongue.svg (complete glyph)
-- u1F60B.layer1.svg (Layer 1)
-- u1F60B.layer2.svg (Layer 2)
-- etc.
+- u1F60A-smileeyes.svg (complete 
 
 ##How to Contribute
 
