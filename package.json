@@ -1,7 +1,7 @@
 {
   "name": "emojipedia",
-  "version": "5.2.9",
-  "description": "emojipedia Font.",
+  "version": "30.9",
+  "description": "emojipedia.",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.0",
