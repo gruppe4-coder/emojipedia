@@ -1,8 +1,8 @@
 ## License for the Code
 
-Copyright 2015, Mozilla Foundation
+Copyright 2016, Mozilla Foundation
 
-Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the fxemoji, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
@@ -18,7 +18,7 @@ limitations under the License.
 
 ## License for the Visual Design
 
-### Creative Commons Attribution 4.0 International (CC BY 4.0)
+### Creative Commons Attribution 2.0 International (CC BY 2.0)
 https://creativecommons.org/licenses/by/4.0/legalcode
 or for the human readable summary: https://creativecommons.org/licenses/by/4.0/
 
