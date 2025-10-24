@@ -10,7 +10,12 @@ if __name__ == "__main__":
   if len(sys.argv)<1:
     print("Please provide arguments.")
     sys.exit(1)
-
+    
+17.9
+18.0
+5.0
+5.2
+30.9
   font_name=sys.argv[1]
 
   files=[]
